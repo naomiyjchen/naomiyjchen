@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a first-year master's student in Computer Science at NYU Courant.
 <!--
 **naomiyjchen/naomiyjchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
